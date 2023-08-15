@@ -6,7 +6,7 @@ const ParentComponent = () => {
   const [todos, setTodos] = useState([
     { id: 1, text: 'Learn React', completed: false },
     { id: 2, text: 'Build a React App', completed: false },
-    { id: 2, text: 'Deploy the React App', completed: false },
+    { id: 3, text: 'Deploy the React App', completed: false },
    
   ]);
 
